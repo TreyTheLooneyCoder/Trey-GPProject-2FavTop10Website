@@ -4,3 +4,20 @@ body{
     background-attachment: fixed;
     background-size: 100% 100%;
 }
+#box{
+    background-color: rgba(0, 0, 0, 0.801);
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    color: white;
+    justify-content: space-evenly;
+}
+.bg-1{
+    background-color: cyan;
+}
+.bg-2{
+    background-color: magenta;
+}
+.spacing{
+    margin: 10px;
+}
