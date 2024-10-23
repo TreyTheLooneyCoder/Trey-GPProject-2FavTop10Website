@@ -1,7 +1,7 @@
 # Your Favorite Top 10 Site
 
 # Roy Cade (Trey)/Gianpaolo Reinares
-# 10/23/2024
+### 10/23/2024
 # "Project - Your Favorite Top 10 Site"
 ### Description: 
 You are to make a multi-page website that talks about your favorite items in a top ten style. This will be a group assignment, 2 per group. Each person will pick a topic and make a top 10 of it.
@@ -23,7 +23,7 @@ You are to make a multi-page website that talks about your favorite items in a t
 [Your Favorite Top 10 Site Figma](https://www.figma.com/design/bfESzfcYp6CHrUVa2iWLe3/Favorite-Top-Ten-Website?node-id=0-1&t=4nYzRdQZ66STYgH0-1)
 
 ### _GitHub Repository Link:_
-[Your Favorite Top 10 Site Repository]()
+[Your Favorite Top 10 Site Repository](https://github.com/TreyTheLooneyCoder/Trey-GPProject-2FavTop10Website/tree/main?tab=readme-ov-file)
 
 
 This has been Peer Reviewed By: 
