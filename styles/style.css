@@ -4,6 +4,21 @@ body{
     background-attachment: fixed;
     background-size: 100% 100%;
 }
+h1{
+    text-align: center;
+    background-color: gray;
+    border-radius: 10;
+}
+h3{
+    text-align: center;
+}
+img{
+    width: auto;
+}
+#review-button{
+    border: none;
+    background-color: rgba(245, 245, 220, 0);
+}
 #box{
     background-color: rgba(0, 0, 0, 0.801);
     margin-top: 25px;
@@ -17,6 +32,11 @@ body{
 }
 .bg-2{
     background-color: magenta;
+}
+.card{
+    text-align: center;
+    background-color: black;
+    color: white;
 }
 .spacing{
     margin: 20px;
