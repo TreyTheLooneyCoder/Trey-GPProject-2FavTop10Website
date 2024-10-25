@@ -26,5 +26,5 @@ You are to make a multi-page website that talks about your favorite items in a t
 [Your Favorite Top 10 Site Repository](https://github.com/TreyTheLooneyCoder/Trey-GPProject-2FavTop10Website/tree/main?tab=readme-ov-file)
 
 
-This has been Peer Reviewed By: 
-> Comments: 
+This has been Peer Reviewed By: Brock Spacek
+> Comments: This webpage has a lot of great designs and is very easy to navigate. I love the carousel for the use of each top 10 as well as the way they designed each specific page. One of my favorite features is when you click the review button video and it blows it up and puts it center screen, which I think is really cool. My only issue with that is it looks a bit out of place because you only see a video with a white border background but it's pretty nit-picky stuff. Everything seems to run great and looks pretty identical to their figma. The responsiveness also seems to work for the tablet. Great job overall!
